@@ -5,7 +5,7 @@ HOW TO RUN:
 1. Make sure file names are the following: following.html and followers.html
 2. Run at command line:  python3 foll.py -i following.html -e followers.html
 
-HOW TO GET HTML FILES ( on insta ):
+HOW TO GET HTML FILES ( on Instagram ):
 1. Log in on Browser
 2. More -> Your Activity -> Download your Information
 3. Once in Accounts Center: Download or Transfer information -> Select Acccount
